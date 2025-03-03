@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @OliwierStecyk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I'm Oliwier! 👋
 
-<!---
-OliwierStecyk/OliwierStecyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Student Data Engineering & Analysis**  
+💻 **Python | SQL | Data Analysis**  
+
+### My Projects 🚀
+🌦 [Meteopy](https://github.com/OliwierStecyk/Meteopy) – Meteorological Data CLI  
+💯 [100DaysOfCode](https://github.com/OliwierStecyk/100DaysOfCode) – Python learning journey  
