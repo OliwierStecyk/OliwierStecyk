@@ -5,5 +5,5 @@
 
 ### My Projects 🚀
 🌦 [Meteopy](https://github.com/OliwierStecyk/Meteopy) – Meteorological Data CLI  
-💯 [100DaysOfCode](https://github.com/OliwierStecyk/100DaysOfCode) – Python learning journey  
+
 
