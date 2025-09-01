@@ -1,6 +1,6 @@
 ### Hi, I'm Oliwier! 👋
 
-🎓 **Student Data Engineering & Analysis**  
+🎓 **Student Data Engineering & Analysis, with a passion for sports and learning**  
 💻 **Python | SQL | Data Analysis**  
 
 ### My Projects 🚀
