@@ -18,10 +18,18 @@
   *Stack:* Python, Multithreading, Multiprocessing, NumPy, Pandas.
 
 
-### Hackaton
-- [HackYeah - 24 hours coding](https://github.com/OliwierStecyk/HackatonHackYeah.git) - Project created during the HackYeah hackathon ( Python, flask, plotly, html, js, tenserflow )
+### 🏆 Hackathon
 
-### Studies 
-- [Study Project: Data Visualisation in R](https://github.com/OliwierStecyk/Projekt-analizy-zmiennych-klimatycznych.git) - Climate Data Visualization Project ( R )
-- [Study Practices: Statistics in Python](https://github.com/OliwierStecyk/Statystyka-projekty.git) - Statistycs ( Python, NumPy, Pandas, and Matplotlib )
-- - [Real Estate Price Prediction Analysis](https://github.com/OliwierStecyk/Real-estate-price-prediction-analysis) Comparative analysis of Linear Regression and XGBoost models. Features: Data Cleaning, VIF Analysis, Hyperparameter Tuning (GridSearch). Stack: Python, Pandas, NumPy, Matplotlib, Seaborn.
+- **[HackYeah - 24h Challenge](https://github.com/OliwierStecyk/HackatonHackYeah)**  
+  Project created during the HackYeah hackathon.  
+  *Stack:* Python, Flask, Plotly, HTML, JS, TensorFlow.
+
+### 📚 Academic & Studies
+
+- **[Data Visualisation in R](https://github.com/OliwierStecyk/Projekt-analizy-zmiennych-klimatycznych)**  
+  Climate Data Visualization Project.  
+  *Stack:* R.
+
+- **[Statistics in Python](https://github.com/OliwierStecyk/Statystyka-projekty)**  
+  Statistical analysis projects and practices.  
+  *Stack:* Python, NumPy, Pandas, Matplotlib.
