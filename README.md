@@ -16,14 +16,14 @@
 - **[Synaptic Bouton Simulation](https://github.com/OliwierStecyk/Kolbka_synaptyczna-)**  
   Simulation of Presynaptic Bouton Function Using MES and AUT Methods.  
   *Stack:* Python, Multithreading, Multiprocessing, NumPy, Pandas.
-
+---
 
 ### 🏆 Hackathon
 
 - **[HackYeah - 24h Challenge](https://github.com/OliwierStecyk/HackatonHackYeah)**  
   Project created during the HackYeah hackathon.  
   *Stack:* Python, Flask, Plotly, HTML, JS, TensorFlow.
-
+---
 ### 📚 Academic & Studies
 
 - **[Data Visualisation in R](https://github.com/OliwierStecyk/Projekt-analizy-zmiennych-klimatycznych)**  
