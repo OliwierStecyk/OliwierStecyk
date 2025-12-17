@@ -2,7 +2,7 @@
 
 🎓 **Student Data Engineering & Analysis, with a passion for sports and learning**  
 💻 **Python | SQL | Data Analysis**  
-
+---
 ### My Projects 🚀
 - **[Real Estate Price Prediction Analysis](https://github.com/OliwierStecyk/Real-estate-price-prediction-analysis)**  
   Comparative analysis of Linear Regression and XGBoost models.  
