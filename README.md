@@ -9,7 +9,7 @@
 ### My Projects 🚀
 - **[Long-Term Climate Analysis: Madrid (ERA5)](https://github.com/OliwierStecyk/Long_Term_Climate_Analysis_Madrid_ERA5.git)**  
   Comparative analysis of Central Spain.  
-  *Key features:* Data Cleaning, Multicollinearity Analysis (VIF), Hyperparameter Tuning (GridSearchCV).  
+  *Key features:* Data Cleaning, Eda, Analysis Madryt.  
   *Stack:* Python, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn.
 
 
