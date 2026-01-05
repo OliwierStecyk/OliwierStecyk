@@ -7,7 +7,7 @@
   
 
 ### My Projects 🚀
-- **[Real Estate Price Prediction Analysis]([https://github.com/OliwierStecyk/Long_Term_Climate_Analysis_Madrid_ERA5.git]))**  
+- **[Real Estate Price Prediction Analysis]([https://github.com/OliwierStecyk/Long_Term_Climate_Analysis_Madrid_ERA5.git])**  
   Comparative analysis of Linear Regression and XGBoost models.  
   *Key features:* Data Cleaning, Multicollinearity Analysis (VIF), Hyperparameter Tuning (GridSearchCV).  
   *Stack:* Python, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn.
