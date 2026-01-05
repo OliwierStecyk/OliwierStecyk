@@ -3,7 +3,17 @@
 🎓 **Student Data Engineering & Analysis, with a passion for sports and learning**  
 💻 **Python | SQL | Data Analysis**  
 ---
+
+  
+
 ### My Projects 🚀
+- **[Real Estate Price Prediction Analysis]([https://github.com/OliwierStecyk/Real-estate-price-prediction-analysis](https://github.com/OliwierStecyk/Long_Term_Climate_Analysis_Madrid_ERA5.git))**  
+  Comparative analysis of Linear Regression and XGBoost models.  
+  *Key features:* Data Cleaning, Multicollinearity Analysis (VIF), Hyperparameter Tuning (GridSearchCV).  
+  *Stack:* Python, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn.
+
+
+
 - **[Real Estate Price Prediction Analysis](https://github.com/OliwierStecyk/Real-estate-price-prediction-analysis)**  
   Comparative analysis of Linear Regression and XGBoost models.  
   *Key features:* Data Cleaning, Multicollinearity Analysis (VIF), Hyperparameter Tuning (GridSearchCV).  
