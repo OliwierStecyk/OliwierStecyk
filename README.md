@@ -9,7 +9,10 @@
 
 
 
-
+- **[MERS Epidemiological Data Analysis](https://github.com/OliwierStecyk/mers-data-science-project)** `[EN]`
+  Comprehensive epidemiological study and forecasting of MERS-CoV outbreaks (2012–2019) using WHO data.
+  *Key features:* CRISP-DM methodology, Time-Series Feature Engineering (Lags, Rolling Means), Comparative analysis of Log-Linear and Random Forest models.
+  *Stack:* R, Tidyverse, randomForest, zoo, RMarkdown.
 
 - **[Long-Term Climate Analysis: Madrid (ERA5)](https://github.com/OliwierStecyk/Long_Term_Climate_Analysis_Madrid_ERA5.git)** `[PL]`        
   Comparative analysis of Central Spain.      
