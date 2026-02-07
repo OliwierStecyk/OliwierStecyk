@@ -2,8 +2,6 @@
 
 🎓 **Student Data Engineering & Analysis, with a passion for sports and learning**  
 💻 **Python | SQL | Data Analysis**  
-
-> 📌 New projects are documented in English. Older projects are in Polish.
 ---
 
   
@@ -29,7 +27,8 @@
   *Stack:* Python, NumPy, Pandas, Click, Matplotlib.  
 
 - **[3D Data Visualization in OpenGL](https://github.com/OliwierStecyk/OpenGL-3D-Data-Visualizer.git)** `[EN]`   
- 3D rendering using OpenGL, Interactive camera controls, lineplot, scatterplot, histogram, barplot   
+  3D data visualization using OpenGL with interactive camera controls.  
+  Supports line plots, scatter plots, histograms, and bar charts.  
   *Stack:* C++, GLUT   
 
 - **[Synaptic Bouton Simulation](https://github.com/OliwierStecyk/Kolbka_synaptyczna-)** `[PL]`   
