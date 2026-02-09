@@ -5,7 +5,7 @@
 ---
 
   
-### My Projects 🚀
+### My Projects 
 
 
 
@@ -39,14 +39,14 @@
   *Stack:* Python, Multithreading, Multiprocessing, NumPy, Pandas.   
 
 ---
-### 🏆 Hackathon
+### Hackathon
 
 - **[HackYeah - 24h Challenge](https://github.com/OliwierStecyk/HackatonHackYeah)** `[PL]` 
   Project created during the HackYeah hackathon.  
   *Stack:* Python, Flask, Plotly, HTML, JS, TensorFlow.
 ---
 
-### 📚 Academic & Studies
+### Academic & Studies
 
 - **[Data Visualisation in R](https://github.com/OliwierStecyk/Projekt-analizy-zmiennych-klimatycznych)** `[PL]`   
   Climate Data Visualization Project.  
