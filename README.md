@@ -9,7 +9,7 @@
 
 
 
-- **[MERS Epidemiological Data Analysis](https://github.com/OliwierStecyk/mers-data-science-project)** `[EN]`
+- **[MERS Epidemiological Data Analysis](https://github.com/OliwierStecyk/mers-data-science-project)** `[EN]`  
   Comprehensive epidemiological study and forecasting of MERS-CoV outbreaks (2012–2019) using WHO data.   
   *Key features:* CRISP-DM methodology, Time-Series Feature Engineering, Comparative analysis of Log-Linear and Random Forest models.   
   *Stack:* R, Tidyverse, randomForest, zoo, RMarkdown.    
